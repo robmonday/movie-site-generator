@@ -11,3 +11,6 @@ To execute code, simply run `entertainment_center.py`.  That easy!
 
 ##License
 GNU General Public License v3.0
+
+##FAQ's
+
