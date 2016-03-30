@@ -10,5 +10,5 @@ To install code, add all files into the same folder, then run `entertainment_cen
 GNU General Public License v3.0
 
 ##FAQ's
-###1)  Where is the HTML page for this code?  
-####The Python code actually creates and saves the webpage when it runs.  
+#####1)  Where is the HTML page for this code?  
+The Python code actually creates and saves the webpage when it runs.  
